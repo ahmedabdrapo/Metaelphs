@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6ea62ed647c1E193877D038593C351c68165c773",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6ea62ed647c1e193877d038593c351c68165c773",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Metaverse Elephants",
+  "SYMBOL": "METAELPH",
+  "MAX_SUPPLY": 20000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metaverse-elephants",
+  "SHOW_BACKGROUND": true
+}
